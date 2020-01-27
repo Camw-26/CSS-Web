@@ -1,0 +1,53 @@
+body{
+  background-color: thistle;
+  margin: 0px;
+}
+
+
+.header{
+  background-color: Steelblue;
+  text-align: center;
+}
+
+.my-name{
+  margin: 0px;
+  padding-top: 430px;
+  font-size: 60px;
+  font-family: garamond;
+  font-style: italic;
+}
+
+.cloud1{
+  position: absolute;
+  right: 150px;
+  top: 100px;
+}
+
+.cloud2{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+
+.heading{
+  text-align: center;
+}
+
+.study{
+  font-size: 20px;
+}
+
+.profile{
+  width: 300px;
+  margin: 0px auto;
+}
+.middle-container{
+  background-color: lightgrey;
+  text-align: center;
+
+}
+
+hr{
+  border-style: dotted;
+  border: 10px none none none
+}
